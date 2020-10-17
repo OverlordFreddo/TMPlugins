@@ -1,0 +1,16 @@
+everyonePing:
+  color: '&b&l'
+  sound: ENTITY_EXPERIENCE_ORB_PICKUP
+  volume: 3.0F
+  pitch: 0.5F
+playerPing:
+  color: '&b&l'
+  sound: ENTITY_EXPERIENCE_ORB_PICKUP
+  volume: 3.0F
+  pitch: 0.5F
+someonePing:
+  color: '&b&l'
+  sound: ENTITY_EXPERIENCE_ORB_PICKUP
+  volume: 3.0F
+  pitch: 0.5F
+  pingYourself: true
